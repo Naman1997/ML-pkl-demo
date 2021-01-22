@@ -1,4 +1,4 @@
-# Heroku-Demo
+# ML-pkl-demo
 
 Sample project on how to use a flask server for using ML models in Heroku/Github pages.
 
